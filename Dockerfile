@@ -6,6 +6,6 @@ COPY ./start.sh /usr/app/
 
 WORKDIR /usr/app
 
-EXPOSE 9092
+EXPOSE 9091
  
 ENTRYPOINT ["./start.sh"]
