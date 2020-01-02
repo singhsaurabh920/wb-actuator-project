@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk-alpine
 
-COPY ./target/app.jar /usr/app/
+COPY ./target/actuator-app.jar /usr/app/
 
 COPY ./start.sh /usr/app/
 
