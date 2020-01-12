@@ -88,5 +88,4 @@
 		</plugins>
 		<finalName>actuator-app</finalName>                   
 	</build>
-
 </project>
